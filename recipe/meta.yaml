@@ -19,7 +19,7 @@ requirements:
     - pip
     - python >=3.7
   run:
-    - intake
+    - intake <2
     - pandas
     - python >=3.7
     - pyarrow >=14.0
