@@ -23,6 +23,7 @@ requirements:
     - pandas
     - python >=3.7
     - pyarrow >=4.0
+    - libarrow-flight
 
 test:
   imports:
